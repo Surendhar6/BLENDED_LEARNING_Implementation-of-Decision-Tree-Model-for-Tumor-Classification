@@ -38,7 +38,7 @@ Measure the model’s performance on the test data with relevant metrics.
 /*
 Program to  implement a Decision Tree model for tumor classification.
 Developed by: Dharshini S
-RegisterNumber:212224040074
+RegisterNumber:212222110049
 
 
 
